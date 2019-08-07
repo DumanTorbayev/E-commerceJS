@@ -293,3 +293,13 @@ body {
 }
 
 /* --------------- End of Cart ---------------- */
+
+/*----------------- Meida queries -----------------*/
+@media (max-width: 450px) {
+  .banner {
+    padding: 0;
+  }
+  .banner-title {
+    font-size: 2rem;
+  }
+}
